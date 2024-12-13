@@ -10,7 +10,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Deployed on Vercel: [Web deployed](https://your-live-site-url.com)
+- Deployed on Vercel: [Web deployed](https://recipe-page-bcwv.vercel.app/)
 
 ## My process
 
